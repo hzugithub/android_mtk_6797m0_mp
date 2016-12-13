@@ -1,0 +1,1 @@
+# android_mtk_6797m0_mp
